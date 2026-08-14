@@ -31,7 +31,7 @@ A parameterized UART controller designed and verified in SystemVerilog. The desi
 
 ## Project Structure
 
-```text
+
 systemverilog-uart-controller/
 ├── uart_tx.sv
 ├── uart_rx.sv
