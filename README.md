@@ -69,7 +69,6 @@ The self-checking testbench verifies:
 
 All functional and error-injection tests completed successfully.
 
-```text
 ======================================
 BACK-TO-BACK UART TEST
 ======================================
@@ -80,6 +79,4 @@ PASS : Byte 3 TX=0x3c RX=0x3c
 ======================================
 ALL UART TESTS COMPLETED
 ======================================
-
-
 
